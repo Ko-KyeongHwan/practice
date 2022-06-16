@@ -82,7 +82,9 @@ __이 부분을 집중해주세요!__ 감사합니다
 
 <!-- tip) 이미지 크기 조절 -->
 <!-- <img src="이미지 링크" width="너비" height="높이"> -->
+
 ex)
+
 <img src="https://user-images.githubusercontent.com/102940093/173971398-c1378b44-6d43-4646-90ee-28eade4165ce.png" width="700" height="370">
 
 
