@@ -116,3 +116,15 @@ ex)
 <!-- <a href='링크'><img src='위에있는 뱃지코드'/></a> -->
 
 <a href='https://www.naver.com/'><img src='https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white'/></a>
+
+
+# Test 모델을 이용한 Test 도출
+
+* Github Url : 하이퍼링크
+
+* requirement : pandas, numpy, torch, seaborn, matplotlib
+
+1. 수행 기관 : 알파코~ (역할)
+2. 데이터 : ~~
+3. method : 모델 전처리 로쓰 옵티마이져
+4. 결과 디텍션, 평가지표, 문제점
